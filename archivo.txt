@@ -1,0 +1,4 @@
+Esto es un archivo de texto
+en este archivo se van a realizar las pruebas de git y git hub
+entendiendo todos los archivos fundamentales de esta aplicación
+rapidamente vamos a aprender que es lo que esta ayudando esta infomración 
