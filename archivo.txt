@@ -1,9 +1,9 @@
 Esto es un archivo de texto
-en este archivo se van a realizar las pruebas de git nada mas
-entendiendo todos los archivos fundamentales de esta aplicación
 
-rapidamente vamos a aprender que es lo que esta ayudando esta infomración 
+Julian Andrade tiene 27 años 
 
-en camara parece alto pero no lo es
+es cocinero, fotografo, maquillador de alimentos, y corredor de bolsa, 
 
 Hoy es corredor de bolsa
+
+En un futuro es programador. 
