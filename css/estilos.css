@@ -27,3 +27,11 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer {
+    background: #777;
+    color: wheat;
+    text-align: center;
+    padding: 00.5em;
+     
+}
